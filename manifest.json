@@ -1,6 +1,6 @@
 {
   "name": "MOAI Lite Deluxe · Catálogo compartido",
-  "version": 2,
+  "version": 3,
   "games": [
     {
       "filename": "outrun.zip",
@@ -28,6 +28,15 @@
       "url": "roms/gtmrb.zip",
       "sizeBytes": 423605,
       "sha256": "bb3f3fd964df92a91be65aa1c4fc09bc10e24356e28efbe1f1d85074688a483f"
+    },
+    {
+      "filename": "pacnpal.zip",
+      "name": "Pac & Pal",
+      "system": "Namco · Arcade",
+      "description": "1983. ZIP completo: 10 archivos verificados por nombre, tamaño y CRC con FBNeo. Requiere motor FBNeo.",
+      "url": "roms/pacnpal.zip",
+      "sizeBytes": 22280,
+      "sha256": "601a25e9bacfefde21adbdcc42d5a35bb96f2c203ed1ee02426282a14761df85"
     }
   ]
 }
