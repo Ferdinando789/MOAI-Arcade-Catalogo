@@ -1,6 +1,6 @@
 {
   "name": "MOAI Lite Deluxe · Catálogo compartido",
-  "version": 9,
+  "version": 10,
   "games": [
     {
       "filename": "outrun.zip",
@@ -91,6 +91,15 @@
       "url": "roms/flipjack.zip",
       "sizeBytes": 30840,
       "sha256": "f8766391fc80524fd7eba79481a9ec1b26b0ca93ec0190bef7e40d5a25d5bf4b"
+    },
+    {
+      "filename": "hangon.zip",
+      "name": "Hang-On (Rev A)",
+      "system": "Sega · Arcade",
+      "description": "1985. Todos los archivos obligatorios de FBNeo presentes; 31 archivos coinciden por nombre, tamaño y CRC. Faltan solo 2 PLD opcionales. Requiere dirección, acelerador y freno analógicos: perfil de conducción aún no habilitado específicamente para Hang-On en MOAI v0.1.36. Pendiente adaptación y prueba de controles en Google TV Streamer.",
+      "url": "roms/hangon.zip",
+      "sizeBytes": 389205,
+      "sha256": "44e9cb0c0b235deddd171071bb6db543368b4a84142af89768752e1d31a8bb96"
     }
   ]
 }
