@@ -1,6 +1,6 @@
 {
   "name": "MOAI Lite Deluxe · Catálogo compartido",
-  "version": 1,
+  "version": 2,
   "games": [
     {
       "filename": "outrun.zip",
@@ -10,6 +10,24 @@
       "url": "roms/outrun.zip",
       "sizeBytes": 877001,
       "sha256": "a6ca0fe457238103b05bbdf0a244439c23d7381a3a96d1eacc4f36ab8df70228"
+    },
+    {
+      "filename": "1943.zip",
+      "name": "1943: The Battle of Midway",
+      "system": "Capcom · Arcade",
+      "description": "1987, versión Euro. ZIP completo: 38 archivos verificados por tamaño y CRC. Requiere motor FBNeo.",
+      "url": "roms/1943.zip",
+      "sizeBytes": 305674,
+      "sha256": "539d975f2acbd8b85f9dca42d7d1fe1826b2f593d0875b84490f9ba000a8cdf1"
+    },
+    {
+      "filename": "gtmrb.zip",
+      "name": "1000 Miglia: Great 1000 Miles Rally · Requiere gtmr.zip",
+      "system": "Kaneko · Arcade",
+      "description": "Versión 94/05/26. ATENCIÓN: este ZIP es un set parcial (5 de 11 archivos). Necesita el juego base gtmr.zip compatible, en la misma carpeta de ROM, para funcionar. No se probó en el Streamer.",
+      "url": "roms/gtmrb.zip",
+      "sizeBytes": 423605,
+      "sha256": "bb3f3fd964df92a91be65aa1c4fc09bc10e24356e28efbe1f1d85074688a483f"
     }
   ]
 }
