@@ -1,6 +1,6 @@
 {
   "name": "MOAI Lite Deluxe · Catálogo compartido",
-  "version": 4,
+  "version": 5,
   "games": [
     {
       "filename": "outrun.zip",
@@ -42,7 +42,7 @@
       "filename": "25pacmano.zip",
       "name": "Pac-Man · 25th Anniversary (Rev. 2.00)",
       "system": "Namco / Cosmodog · Arcade",
-      "description": "2005, Rev. 2.00. ZIP completo: 2 archivos verificados por tamaño y CRC con FBNeo, sin necesitar el ZIP padre. FBNeo la marca como funcional; falta prueba física en Streamer. Requiere motor FBNeo.",
+      "description": "2005, Rev. 2.00. ZIP completo verificado (2 archivos). Usar MOAI Lite Deluxe v0.1.35 para preparar el primer arranque automáticamente. Esperar la preparación, pulsar Select dos veces y Start. Requiere motor FBNeo. Prueba de partida en Linux realizada; falta confirmar en Streamer.",
       "url": "roms/25pacmano.zip",
       "sizeBytes": 70299,
       "sha256": "73655a108c125206b90324451b01daebdb492b0e7a596e0efc7c1fb4b018f384"
