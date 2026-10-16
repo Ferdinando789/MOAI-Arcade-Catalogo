@@ -1,6 +1,6 @@
 {
   "name": "MOAI Lite Deluxe · Catálogo compartido",
-  "version": 6,
+  "version": 7,
   "games": [
     {
       "filename": "outrun.zip",
@@ -55,6 +55,24 @@
       "url": "roms/tehkanwc.zip",
       "sizeBytes": 193646,
       "sha256": "b79179abc5073c6a89826acfe37d1779e725f19b137eff9df3707698e5eb16c2"
+    },
+    {
+      "filename": "outrunehb.zip",
+      "name": "OutRun Enhanced · 2.0.2",
+      "system": "Sega · Arcade",
+      "description": "Enhanced Edition v2.0.2. ZIP completo verificado (31 archivos). Usar MOAI Lite Deluxe v0.1.36 para controles de conducción. Select: ficha; Start: iniciar; A/R2: acelerar. Carrera probada en FBNeo Linux; falta confirmar en Streamer.",
+      "url": "roms/outrunehb.zip",
+      "sizeBytes": 883568,
+      "sha256": "890e203169ea3d508ab5d13995a2d8f7e262d2f86cc6e2ce35ff6aa42c34a6f8"
+    },
+    {
+      "filename": "f1gpstr2.zip",
+      "name": "F-1 Grand Prix Star II",
+      "system": "Jaleco · Arcade",
+      "description": "1993. ZIP completo verificado (49 archivos). Usar MOAI Lite Deluxe v0.1.36 para volante, acelerador, freno y cambio. Select: ficha; Start: iniciar; A/R2: acelerar. Carrera probada en FBNeo Linux; falta confirmar en Streamer.",
+      "url": "roms/f1gpstr2.zip",
+      "sizeBytes": 4131456,
+      "sha256": "89903646641e9517dc3a306684962f5d9d64a86825d94bab5358f8f0fbea63cf"
     }
   ]
 }
