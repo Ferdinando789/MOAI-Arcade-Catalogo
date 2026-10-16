@@ -1,0 +1,15 @@
+{
+  "name": "MOAI Lite Deluxe · Catálogo compartido",
+  "version": 1,
+  "games": [
+    {
+      "filename": "outrun.zip",
+      "name": "OutRun",
+      "system": "Sega · Arcade",
+      "description": "OutRun (1986), Rev B. Instalación opcional. Requiere motor FBNeo.",
+      "url": "roms/outrun.zip",
+      "sizeBytes": 877001,
+      "sha256": "a6ca0fe457238103b05bbdf0a244439c23d7381a3a96d1eacc4f36ab8df70228"
+    }
+  ]
+}
