@@ -1,6 +1,6 @@
 {
   "name": "MOAI Lite Deluxe · Catálogo compartido",
-  "version": 5,
+  "version": 6,
   "games": [
     {
       "filename": "outrun.zip",
@@ -46,6 +46,15 @@
       "url": "roms/25pacmano.zip",
       "sizeBytes": 70299,
       "sha256": "73655a108c125206b90324451b01daebdb492b0e7a596e0efc7c1fb4b018f384"
+    },
+    {
+      "filename": "tehkanwc.zip",
+      "name": "Tehkan World Cup",
+      "system": "Tehkan · Arcade",
+      "description": "Fútbol arcade (1985). ZIP verificado: 11 archivos del juego base coinciden por nombre, tamaño y CRC con FBNeo; incluye variantes adicionales. Controles digitales mediante emulación de trackball. Gamepad y remoto aún sin prueba física en Google TV Streamer.",
+      "url": "roms/tehkanwc.zip",
+      "sizeBytes": 193646,
+      "sha256": "b79179abc5073c6a89826acfe37d1779e725f19b137eff9df3707698e5eb16c2"
     }
   ]
 }
