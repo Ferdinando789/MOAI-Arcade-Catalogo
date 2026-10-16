@@ -1,6 +1,6 @@
 {
   "name": "MOAI Lite Deluxe · Catálogo compartido",
-  "version": 7,
+  "version": 8,
   "games": [
     {
       "filename": "outrun.zip",
@@ -73,6 +73,15 @@
       "url": "roms/f1gpstr2.zip",
       "sizeBytes": 4131456,
       "sha256": "89903646641e9517dc3a306684962f5d9d64a86825d94bab5358f8f0fbea63cf"
+    },
+    {
+      "filename": "footchmp.zip",
+      "name": "Football Champ / Euro Football Champ (World)",
+      "system": "Taito F2 · Arcade",
+      "description": "Fútbol arcade (1990). ZIP completo: 12/12 archivos coinciden por nombre, tamaño y CRC con FBNeo. Dos botones de acción por jugador. Requiere motor FBNeo. Pendiente prueba de partida y controles en Google TV Streamer.",
+      "url": "roms/footchmp.zip",
+      "sizeBytes": 1991401,
+      "sha256": "5be202824472b68045eeecdc26a1b57bc249486a308b130220559a4209511f69"
     }
   ]
 }
