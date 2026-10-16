@@ -1,6 +1,6 @@
 {
   "name": "MOAI Lite Deluxe · Catálogo compartido",
-  "version": 8,
+  "version": 9,
   "games": [
     {
       "filename": "outrun.zip",
@@ -82,6 +82,15 @@
       "url": "roms/footchmp.zip",
       "sizeBytes": 1991401,
       "sha256": "5be202824472b68045eeecdc26a1b57bc249486a308b130220559a4209511f69"
+    },
+    {
+      "filename": "flipjack.zip",
+      "name": "Flipper Jack",
+      "system": "Jackson · Arcade",
+      "description": "Pinball arcade, año indicado como 1983? en FBNeo. ZIP completo: 10/10 archivos verificados por nombre, tamaño y CRC. Juego vertical. Requiere motor FBNeo. Pendiente prueba de partida y controles en Google TV Streamer.",
+      "url": "roms/flipjack.zip",
+      "sizeBytes": 30840,
+      "sha256": "f8766391fc80524fd7eba79481a9ec1b26b0ca93ec0190bef7e40d5a25d5bf4b"
     }
   ]
 }
