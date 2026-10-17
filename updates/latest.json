@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.infomak.moailite",
-  "versionCode": 44,
-  "versionName": "0.1.43",
+  "versionCode": 45,
+  "versionName": "0.1.44",
   "minSdk": 24,
-  "url": "https://raw.githubusercontent.com/Ferdinando789/MOAI-Arcade-Catalogo/main/updates/MOAI-Lite-Deluxe-v0.1.43.apk",
-  "sizeBytes": 13270974,
-  "sha256": "40c3d4640ef46fb86a45cc8d3b1a2eef337f423176256154a368bdbe512da79b"
+  "url": "https://raw.githubusercontent.com/Ferdinando789/MOAI-Arcade-Catalogo/main/updates/MOAI-Lite-Deluxe-v0.1.44.apk",
+  "sizeBytes": 13424416,
+  "sha256": "543a4810b34a64b2c56fe2111416e759fb63dc1e64e12258f6d3162d268988de"
 }
