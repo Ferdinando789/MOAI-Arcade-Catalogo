@@ -1,6 +1,6 @@
 {
   "name": "MOAI Lite Deluxe · Catálogo compartido",
-  "version": 11,
+  "version": 12,
   "games": [
     {
       "filename": "outrun.zip",
@@ -118,6 +118,15 @@
       "url": "roms/sf2ce.zip",
       "sizeBytes": 3584791,
       "sha256": "934a64cb81871d271a369dc4e1edf535ab0a3af7c60c59be2a366fd1eacbef7c"
+    },
+    {
+      "filename": "term2.zip",
+      "name": "Terminator 2 · Judgment Day (LA4)",
+      "system": "Midway Y Unit · Arcade",
+      "description": "1991, rev LA4 08/03/92. ZIP completo: los 17 archivos de esta revisión coinciden por nombre, tamaño y CRC con FBNeo; incluye revisiones adicionales. Requiere motor FBNeo. Juego con apuntado de pistola: compatibilidad del apuntado con gamepad y partida pendientes de comprobar en Google TV Streamer.",
+      "url": "roms/term2.zip",
+      "sizeBytes": 9953492,
+      "sha256": "98f9a90cc4535a16602f998f99c9c3a4abcab9e94858da731183454208a22a4b"
     }
   ]
 }
