@@ -1,6 +1,6 @@
 {
   "name": "MOAI Lite Deluxe · Catálogo compartido",
-  "version": 13,
+  "version": 14,
   "games": [
     {
       "filename": "outrun.zip",
@@ -136,6 +136,15 @@
       "url": "roms/spbactn.zip",
       "sizeBytes": 1286449,
       "sha256": "6d36e8ee04f66a70283663b757a6c67d8f52e8578dc5cf2c93d43877b0b588ad"
+    },
+    {
+      "filename": "swcourt.zip",
+      "name": "Super World Court (World)",
+      "system": "Namco NA-1 · Arcade",
+      "description": "Tenis arcade (1992). ZIP completo: 8 ROM del juego y BIOS C69 incluidas, verificadas por tamaño y CRC con FBNeo; seis nombres antiguos ajustados al driver actual sin cambiar los datos. Cruceta o stick: movimiento; botones de acción del gamepad: golpes; Select: ficha y Start: iniciar. Requiere motor FBNeo. Pendiente prueba de partida y controles en Google TV Streamer.",
+      "url": "roms/swcourt.zip",
+      "sizeBytes": 1517513,
+      "sha256": "0ee1b2eb966b8e3e568bdcd209be3a17be6380a5af7c74671fd7fc902856c1e1"
     }
   ]
 }
