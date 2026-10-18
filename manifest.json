@@ -1,6 +1,6 @@
 {
   "name": "MOAI Lite Deluxe · Catálogo compartido",
-  "version": 10,
+  "version": 11,
   "games": [
     {
       "filename": "outrun.zip",
@@ -100,6 +100,24 @@
       "url": "roms/hangon.zip",
       "sizeBytes": 389205,
       "sha256": "44e9cb0c0b235deddd171071bb6db543368b4a84142af89768752e1d31a8bb96"
+    },
+    {
+      "filename": "galspnbl.zip",
+      "name": "Gals Pinball",
+      "system": "Comad · Arcade",
+      "description": "Pinball vertical (1996). ZIP completo: 14/14 archivos verificados por nombre, tamaño y CRC con FBNeo. Requiere motor FBNeo. Pendiente prueba de partida y controles en Google TV Streamer.",
+      "url": "roms/galspnbl.zip",
+      "sizeBytes": 3456074,
+      "sha256": "b543898c8bfc4cdde8101233be3d8bf457d02d0e136b10c1363beb7b37b990f7"
+    },
+    {
+      "filename": "sf2ce.zip",
+      "name": "Street Fighter II · Champion Edition",
+      "system": "Capcom CPS1 · Arcade",
+      "description": "1992, World 920513. ZIP completo: 28/28 archivos verificados por nombre, tamaño y CRC con FBNeo, incluidos 18 obligatorios y 10 PLD opcionales. Seis botones de acción. Requiere motor FBNeo. Pendiente prueba de partida y controles en Google TV Streamer.",
+      "url": "roms/sf2ce.zip",
+      "sizeBytes": 3584791,
+      "sha256": "934a64cb81871d271a369dc4e1edf535ab0a3af7c60c59be2a366fd1eacbef7c"
     }
   ]
 }
