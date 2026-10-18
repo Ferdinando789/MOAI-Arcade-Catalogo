@@ -1,10 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.infomak.moailite",
-  "versionCode": 47,
-  "versionName": "0.1.46",
+  "versionCode": 48,
+  "versionName": "0.1.47",
   "minSdk": 24,
-  "url": "https://raw.githubusercontent.com/Ferdinando789/MOAI-Arcade-Catalogo/main/updates/MOAI-Lite-Deluxe-v0.1.46.apk",
-  "sizeBytes": 15880952,
-  "sha256": "9f584fcb868b8f28b31b9eb350db7e26f7e71b2986e28b6bbfc9d3b6666fb6fb"
+  "sizeBytes": 15724416,
+  "sha256": "3eac5ef4165e63437a67a4b8a4f48f589f3649d119349df98d889b57d739e335",
+  "url": "https://raw.githubusercontent.com/Ferdinando789/MOAI-Arcade-Catalogo/main/updates/MOAI-Lite-Deluxe-v0.1.47.apk",
+  "notes": "Super Pinball Action: L2 paleta izquierda, R2 paleta derecha y A lanzar. Select ficha, Start iniciar. Conserva la interfaz gris acero y las 255 banderas."
 }

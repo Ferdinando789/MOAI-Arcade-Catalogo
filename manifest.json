@@ -1,6 +1,6 @@
 {
   "name": "MOAI Lite Deluxe · Catálogo compartido",
-  "version": 12,
+  "version": 13,
   "games": [
     {
       "filename": "outrun.zip",
@@ -127,6 +127,15 @@
       "url": "roms/term2.zip",
       "sizeBytes": 9953492,
       "sha256": "98f9a90cc4535a16602f998f99c9c3a4abcab9e94858da731183454208a22a4b"
+    },
+    {
+      "filename": "spbactn.zip",
+      "name": "Super Pinball Action (US)",
+      "system": "Tecmo · Arcade",
+      "description": "Pinball vertical (1991). ZIP completo: 10/10 ROM del juego US verificadas por nombre, tamaño y CRC con FBNeo; incluye variantes adicionales. Usar MOAI Lite Deluxe v0.1.47: L2 paleta izquierda, R2 paleta derecha, A lanzar bola, Select ficha y Start iniciar. No necesita BIOS externa. Pendiente prueba física de partida y gamepad en Google TV Streamer.",
+      "url": "roms/spbactn.zip",
+      "sizeBytes": 1286449,
+      "sha256": "6d36e8ee04f66a70283663b757a6c67d8f52e8578dc5cf2c93d43877b0b588ad"
     }
   ]
 }
