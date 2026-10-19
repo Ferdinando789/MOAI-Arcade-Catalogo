@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.infomak.moailite",
-  "versionCode": 51,
-  "versionName": "0.1.50",
+  "versionCode": 52,
+  "versionName": "0.1.51",
   "minSdk": 24,
-  "sizeBytes": 15735968,
-  "sha256": "8f59a4559fb7350e69652234fafe286722ea4c50eb602844e0667546654bad33",
-  "url": "https://raw.githubusercontent.com/Ferdinando789/MOAI-Arcade-Catalogo/main/updates/MOAI-Lite-Deluxe-v0.1.50.apk",
-  "notes": "Azul intenso, texto blanco y selección turquesa con borde celeste. Se aplica el nuevo tema al actualizar, conservando favoritos, juegos, reloj y clima."
+  "sizeBytes": 15635852,
+  "sha256": "136c3a2ffb0f555a992574875c459a9774293cc787600c3ec3a10876c5beff7d",
+  "url": "https://raw.githubusercontent.com/Ferdinando789/MOAI-Arcade-Catalogo/main/updates/MOAI-Lite-Deluxe-v0.1.51.apk",
+  "notes": "Nuevo icono aprobado: moái completo, rocas y mar dentro del círculo, con más margen. Conserva tema azul, favoritos, juegos y clima."
 }
