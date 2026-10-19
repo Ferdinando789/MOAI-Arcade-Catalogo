@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.infomak.moailite",
-  "versionCode": 50,
-  "versionName": "0.1.49",
+  "versionCode": 51,
+  "versionName": "0.1.50",
   "minSdk": 24,
-  "sizeBytes": 15735544,
-  "sha256": "50fcb48a45cc2e5b717c1c72adb11206bc4b3b074cd532e54e7731d871d6cd16",
-  "url": "https://raw.githubusercontent.com/Ferdinando789/MOAI-Arcade-Catalogo/main/updates/MOAI-Lite-Deluxe-v0.1.49.apk",
-  "notes": "Inter más legible: pesos Medium/SemiBold reales, contraste más fuerte y texto nativo ajustado a píxeles. Mantiene hora, clima y diseño."
+  "sizeBytes": 15735968,
+  "sha256": "8f59a4559fb7350e69652234fafe286722ea4c50eb602844e0667546654bad33",
+  "url": "https://raw.githubusercontent.com/Ferdinando789/MOAI-Arcade-Catalogo/main/updates/MOAI-Lite-Deluxe-v0.1.50.apk",
+  "notes": "Azul intenso, texto blanco y selección turquesa con borde celeste. Se aplica el nuevo tema al actualizar, conservando favoritos, juegos, reloj y clima."
 }
