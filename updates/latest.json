@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.infomak.moailite",
-  "versionCode": 49,
-  "versionName": "0.1.48",
+  "versionCode": 50,
+  "versionName": "0.1.49",
   "minSdk": 24,
-  "sizeBytes": 15735500,
-  "sha256": "59be5c745d4f6384a57eb4cdc8d0db591e1ae7af19109f023a50bd5a5774dea6",
-  "url": "https://raw.githubusercontent.com/Ferdinando789/MOAI-Arcade-Catalogo/main/updates/MOAI-Lite-Deluxe-v0.1.48.apk",
-  "notes": "Hora y clima después de ARCADE. Ciudad configurable y opción para ocultar el panel. Datos en segundo plano con caché ligera."
+  "sizeBytes": 15735544,
+  "sha256": "50fcb48a45cc2e5b717c1c72adb11206bc4b3b074cd532e54e7731d871d6cd16",
+  "url": "https://raw.githubusercontent.com/Ferdinando789/MOAI-Arcade-Catalogo/main/updates/MOAI-Lite-Deluxe-v0.1.49.apk",
+  "notes": "Inter más legible: pesos Medium/SemiBold reales, contraste más fuerte y texto nativo ajustado a píxeles. Mantiene hora, clima y diseño."
 }
