@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.infomak.moailite",
-  "versionCode": 48,
-  "versionName": "0.1.47",
+  "versionCode": 49,
+  "versionName": "0.1.48",
   "minSdk": 24,
-  "sizeBytes": 15724416,
-  "sha256": "3eac5ef4165e63437a67a4b8a4f48f589f3649d119349df98d889b57d739e335",
-  "url": "https://raw.githubusercontent.com/Ferdinando789/MOAI-Arcade-Catalogo/main/updates/MOAI-Lite-Deluxe-v0.1.47.apk",
-  "notes": "Super Pinball Action: L2 paleta izquierda, R2 paleta derecha y A lanzar. Select ficha, Start iniciar. Conserva la interfaz gris acero y las 255 banderas."
+  "sizeBytes": 15735500,
+  "sha256": "59be5c745d4f6384a57eb4cdc8d0db591e1ae7af19109f023a50bd5a5774dea6",
+  "url": "https://raw.githubusercontent.com/Ferdinando789/MOAI-Arcade-Catalogo/main/updates/MOAI-Lite-Deluxe-v0.1.48.apk",
+  "notes": "Hora y clima después de ARCADE. Ciudad configurable y opción para ocultar el panel. Datos en segundo plano con caché ligera."
 }
