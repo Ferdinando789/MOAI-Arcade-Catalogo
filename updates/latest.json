@@ -1,11 +1,11 @@
 {
-    "schemaVersion":  1,
-    "applicationId":  "com.infomak.moailite",
-    "versionCode":  53,
-    "versionName":  "0.1.52",
-    "minSdk":  24,
-    "sizeBytes":  9417556,
-    "sha256":  "675dd2bec02798f6108619d916307385f519907beb3201efa790d9a2536642da",
-    "url":  "https://raw.githubusercontent.com/Ferdinando789/MOAI-Arcade-Catalogo/main/updates/MOAI-Lite-Deluxe-v0.1.52.apk",
-    "notes":  "Muestra debajo de cada canal su fuente (DaddyLive, Moai Argentina u otra), en amarillo y con el mismo tamano. Conserva las preferencias y funciones existentes."
+  "schemaVersion": 1,
+  "applicationId": "com.infomak.moailite",
+  "versionCode": 54,
+  "versionName": "0.1.53",
+  "minSdk": 24,
+  "sizeBytes": 9417556,
+  "sha256": "fe18712144ea97f2e03b608193cfe24c4edccfc53afbe6ceab324c6de6c9209f",
+  "url": "https://raw.githubusercontent.com/Ferdinando789/MOAI-Arcade-Catalogo/main/updates/MOAI-Lite-Deluxe-v0.1.53.apk",
+  "notes": "Corrige el color de las etiquetas de fuente: MOAI Argentina y DaddyLive en amarillo, con tamaño uniforme."
 }
