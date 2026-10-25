@@ -1,6 +1,6 @@
 {
   "name": "MOAI Lite Deluxe · Catálogo compartido",
-  "version": 16,
+  "version": 17,
   "games": [
     {
       "filename": "outrun.zip",
@@ -145,33 +145,6 @@
       "url": "roms/swcourt.zip",
       "sizeBytes": 1517513,
       "sha256": "0ee1b2eb966b8e3e568bdcd209be3a17be6380a5af7c74671fd7fc902856c1e1"
-    },
-    {
-      "filename": "neogeo.zip",
-      "name": "BIOS Neo Geo · requisito para KOF 98",
-      "system": "SNK · BIOS",
-      "description": "Archivos del sistema Neo Geo. Instalá esta BIOS una sola vez desde el catálogo; queda en la misma carpeta que KOF 98 y KOF 98 AE.",
-      "url": "roms/neogeo.zip",
-      "sizeBytes": 1950045,
-      "sha256": "36a47cf50a585cafc812e19ef7646ad1556a5de90440d9dcb06f373926cd68ea"
-    },
-    {
-      "filename": "kof98.zip",
-      "name": "The King of Fighters '98",
-      "system": "SNK Neo Geo Â· Arcade",
-      "description": "Juego original (1998). Requiere motor FBNeo y Neo Geo BIOS instalada desde este catálogo (una sola vez). Controles y arranque en Google Streamer pendientes de prueba.",
-      "url": "roms/kof98.zip",
-      "sizeBytes": 40445835,
-      "sha256": "41d85684c3ef82a5e5369c7bcb9bff631c97b1e98637336fcdefed4cb6bc5c23"
-    },
-    {
-      "filename": "kof98ae.zip",
-      "name": "The King of Fighters '98 Â· Anniversary Edition",
-      "system": "SNK Neo Geo Â· Arcade (variante)",
-      "description": "Variante Anniversary Edition. Depende de kof98.zip (juego padre) y Neo Geo BIOS instalada desde este catálogo. Requiere motor FBNeo. Controles y arranque en Google Streamer pendientes de prueba.",
-      "url": "roms/kof98ae.zip",
-      "sizeBytes": 50612386,
-      "sha256": "7ca2fd43ffc3e9026498fd3bfcc2134b73c38e6b2c8dca7b635e75bb31f7a4ce"
     }
   ]
 }
