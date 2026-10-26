@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "applicationId": "com.infomak.moailite",
-  "versionCode": 54,
-  "versionName": "0.1.53",
+  "versionCode": 55,
+  "versionName": "0.1.54",
   "minSdk": 24,
   "sizeBytes": 9417556,
-  "sha256": "fe18712144ea97f2e03b608193cfe24c4edccfc53afbe6ceab324c6de6c9209f",
-  "url": "https://raw.githubusercontent.com/Ferdinando789/MOAI-Arcade-Catalogo/main/updates/MOAI-Lite-Deluxe-v0.1.53.apk",
-  "notes": "Corrige el color de las etiquetas de fuente: MOAI Argentina y DaddyLive en amarillo, con tamaño uniforme."
+  "sha256": "9824b369c42e8e9ca711490c045e9df655d06159fe8a4240c922df6cd530b440",
+  "url": "https://raw.githubusercontent.com/Ferdinando789/MOAI-Arcade-Catalogo/main/updates/MOAI-Lite-Deluxe-v0.1.54.apk",
+  "notes": "Nueva interfaz Premium 4K para Android TV: azul profundo, selección celeste, distribución y favoritos conservados; posibilidad de volver al estilo clásico."
 }
